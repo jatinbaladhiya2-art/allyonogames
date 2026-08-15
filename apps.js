@@ -1,6 +1,14 @@
 const apps = [
 
 {
+name:"Diwa X",
+bonus:"₹100",
+withdraw:"₹100",
+image:"images/diwax.png",
+link:"https://diwaxshare.top?pid=351335486&channel=2010002&pkg=com.diwax002.app"
+},
+
+{
 name:"Win Rummy",
 bonus:"₹100",
 withdraw:"₹100",
