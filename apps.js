@@ -1,6 +1,14 @@
 const apps = [
 
 {
+  name:"Gold Rummy",
+  bonus:"₹100",
+  withdraw:"₹100",
+  image:"images/goldrummy.png",
+  link:"https://goldrummy27.com/?code=JLXSYZVQTPG&t=1787106519"
+},
+  
+{
 name:"Diwa X",
 bonus:"₹100",
 withdraw:"₹100",
