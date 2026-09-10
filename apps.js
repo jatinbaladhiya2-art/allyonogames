@@ -1,5 +1,13 @@
 const apps = [
 {
+name:"Diwa Play",
+bonus:"₹100",
+withdraw:"₹100",
+image:"images/diwaplay.png",
+link:"https://diwaplayshare.co?pid=371648010&channel=2010002&pkg=com.diwaplaywhl.app"
+},
+  
+{
   name:"Money Rummy",
   bonus:"₹100",
   withdraw:"₹100",
