@@ -1,4 +1,11 @@
 const apps = [
+{
+  name:"Money Rummy",
+  bonus:"₹100",
+  withdraw:"₹100",
+  image:"images/moneyrummy.png",
+  link:"https://moneyrummyuu.com/?code=T1XQ2U65S2P&t=1789054287"
+},
 
 {
   name:"Gold Rummy",
