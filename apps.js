@@ -1,5 +1,4 @@
 const apps = [
-
 {
 name:"Rummy Zip",
 bonus:"₹100",
