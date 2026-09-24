@@ -1,6 +1,14 @@
 const apps = [
 
 {
+name:"Rummy Zip",
+bonus:"₹100",
+withdraw:"₹100",
+image:"images/rummyzip.png",
+link:"https://rummyzip4.com/?code=CJBNRJV9&t=1790142314"
+},
+
+{
 name:"Diwa Play",
 bonus:"₹100",
 withdraw:"₹100",
@@ -70,6 +78,14 @@ bonus:"₹100",
 withdraw:"₹100",
 image:"images/jaiho777.png",
 link:"https://jaiho777vip.life?code=GC2PP5FNRZR&t=1780715758"
+},
+
+{
+name:"Diwa Lucky",
+bonus:"₹100",
+withdraw:"₹100",
+image:"images/diwalucky.png",
+link:"https://share1diwaluck.top?pid=357880550&channel=2010002&pkg=com.diwalucky2.app"
 },
 
 {
