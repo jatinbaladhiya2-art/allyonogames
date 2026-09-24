@@ -89,6 +89,14 @@ link:"https://jaiho91official.net/?code=C42PUWBKM9C&t=1778035047"
 },
 
 {
+name:"Diwa Lucky",
+bonus:"₹100",
+withdraw:"₹100",
+image:"images/diwalucky.png",
+link:"https://share1diwaluck.top?pid=357880550&channel=2010002&pkg=com.diwalucky2.app"
+},
+
+{
 name:"Joy Rummy",
 bonus:"₹100",
 withdraw:"₹100",
